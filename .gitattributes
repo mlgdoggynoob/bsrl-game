@@ -1,0 +1,1 @@
+assets/sc/ui.sc filter=lfs diff=lfs merge=lfs -text
